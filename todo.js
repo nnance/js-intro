@@ -24,5 +24,3 @@ var data = [
     complete: false
   }
 ]
-
-console.dir(activeByUser(data));
